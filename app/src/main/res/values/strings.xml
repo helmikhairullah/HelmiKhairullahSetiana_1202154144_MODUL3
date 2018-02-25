@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">HelmiKhairullahSetiana_1202154144_Modul3</string>
+
+
+    <array name="menu_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    <string-array name="nama">
+        <item>ades</item>
+        <item>amidis</item>
+        <item>aqua </item>
+        <item>cleo</item>
+        <item>club</item>
+        <item>equil</item>
+        <item>evian</item>
+        <item>eminerale</item>
+        <item>nestle</item>
+        <item>pristine</item>
+        <item>vit</item>
+    </string-array>
+
+    <string-array name="penjelasan">
+        <item>ini adalah ades</item>
+        <item>ini adalah amidis</item>
+        <item>ini adalah aqua </item>
+        <item>ini adalah cleo</item>
+        <item>ini adalah club</item>
+        <item>ini adalah equil</item>
+        <item>ini adalah evian</item>
+        <item>ini adalah eminerale</item>
+        <item>ini adalah nestle</item>
+        <item>ini adalah pristine</item>
+        <item>ini adalah vit</item>
+    </string-array>
+
+</resources>
